@@ -1,4 +1,4 @@
-module github.com/zfirdavs/chat-gpt3-example
+module github.com/zfirdavs/chat-gpt3-client
 
 go 1.20
 
